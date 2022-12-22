@@ -2,7 +2,7 @@
 
 This project attempts to replicate the classic Snake game using the **turtle** module in Python.
 
-Part of #100DaysOfCode challenge, the game encapsulates a series of core Python concepts such as data structures, loops, 
+Part of *#100DaysOfCode* challenge, the game encapsulates a series of core Python concepts such as data structures, loops, 
 select statements, file management, functions and object oriented programming (OOP).
 
 Just like the classic game, the snake is controlled by the *up*, *down*, *left* and *right* keys, and each time the snake 
